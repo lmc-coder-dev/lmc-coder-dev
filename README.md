@@ -5,7 +5,6 @@
 <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&color=58A6FF&weight=600&lines=Hi%2C+I+am+LmcCoder~">
 </a>
 </div>
-
 ---
 
 ## 🚀 About me
