@@ -1,4 +1,8 @@
-## Hi there , code explorer ✨
+# Hi there , code explorer ✨
+
+---
+
+## 🚀 About me
 
 - I'm a developer exploring tech I love.  
 
